@@ -1,2 +1,2 @@
-# Media-em-C
-Media de notas em C
+# Média-em-C
+Média de notas em C
